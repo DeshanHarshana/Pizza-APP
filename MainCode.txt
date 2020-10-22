@@ -5,3 +5,8 @@ Add Interface
 Add Bank Payment
 
 Add Login Page
+
+Add Paypal
+
+Add Sofisicisn
+
