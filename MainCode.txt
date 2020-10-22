@@ -2,8 +2,21 @@ Add dependencies
 
 Add Interface
 
+
 Add Database 
 
 Add SSL Certification
 
+
+
+Add Bank Payment
+
 Final Beta
+
+Add Login Page
+
+Add Paypal
+
+Add Sofisicisn
+
+
